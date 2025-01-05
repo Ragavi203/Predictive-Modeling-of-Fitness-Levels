@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1nuWDa-_9hl-0kRtZvUyE1ndyQLnNHoST?usp=sh
 
 Objective:
 
-The objective of this project is to predict an individual's fitness level based on various features such as daily activity metrics and personal health indicators. The model aims to assist users in understanding the key factors that contribute to their fitness level and provide insights for improving their health.
+The objective of this project is to predict an individual's fitness level based on various features such as daily activity metrics and personal health indicators. The model aims to assist users in understanding the key factors that contribute to their fitness level.
 
 Dataset Overview:  https://www.kaggle.com/datasets/jijagallery/fitlife-health-and-fitness-tracking-dataset
 
